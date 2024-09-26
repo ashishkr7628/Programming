@@ -9,7 +9,7 @@ public class PowFunction {
         for(int i=1;i<=y;i++){
             pow=pow*x;
             
-        }
+        }0po
 
         System.out.println(pow);
 
